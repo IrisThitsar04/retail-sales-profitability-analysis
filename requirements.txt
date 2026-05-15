@@ -1,0 +1,6 @@
+pandas
+xlrd
+dagster
+dagster-webserver
+jupyter
+notebook
