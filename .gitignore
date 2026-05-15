@@ -18,5 +18,6 @@ logs/
 # OS files
 .DS_Store
 
-# Tableau temporary files
-*.twb~
+# Tableau temporary/recovery files
+*.twbr
+.~*.twbr
